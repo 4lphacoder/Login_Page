@@ -19,8 +19,9 @@
   "homepage": "https://github.com/pv03158/Login_Page#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "nodemon": "^2.0.4",
     "pg": "^7.9.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
